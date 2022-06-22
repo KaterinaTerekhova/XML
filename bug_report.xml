@@ -1,1 +1,16 @@
-bug report
+   <Bug report>
+      <Bug_id>ID_11</Bug_report>    
+      <Title>При введении невалидного значения в поле Name, рамка не подсвечивается красным цветом</title>
+      <Severity>minor</Severity>
+      <Priority>Low</Priority>
+      <Environment>1) Windows 10 Pro, x.64.,2) Google Chrome version 102.0.5005.63</Environment> 
+      <Precondition>Все поля Login кроме поля Name заполнены валидными значениями</Precondition>
+      <STR>1. Перейти на http://itcareer.com,	2. Ввести 1 латинскую букву в поле Name, 3. Нажать Submit</STR>		
+      <AR>Рамка не подсвечивается красным цветом</AR>
+      <ER>Рамка поля Name должна стать красной</ER>
+</Bug report>  
+ 
+ 
+    
+      
+
